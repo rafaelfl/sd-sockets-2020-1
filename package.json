@@ -1,0 +1,11 @@
+{
+  "name": "sd-sockets-2020-1",
+  "version": "0.0.1",
+  "main": "server.js",
+  "repository": "https://github.com/rafaelfl/sd-sockets-2020-1.git",
+  "author": "Rafael Fernandes Lopes <rafael.fernandes@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./server.js"
+  }
+}
